@@ -16,6 +16,10 @@ Clone this repo and go through the notebook maddpg_physical_deception_v1.ipynb
 The notebook provides helper functions to visualize the agents interacting within the environment, as well as their learning curves.
 
 #### Before training
+![Random play](https://github.com/thenickben/maddpg/blob/master/figures/physical_deception_demo.gif)
 
+![Learning curve](https://github.com/thenickben/maddpg/blob/master/figures/Physical%20Deception%20Rewards.png)
 
 #### After training
+
+![Trained agents' play](https://github.com/thenickben/maddpg/blob/master/figures/physical_deception.gif)
