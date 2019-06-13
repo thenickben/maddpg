@@ -18,8 +18,10 @@ The notebook provides helper functions to visualize the agents interacting withi
 #### Before training
 ![Random play](https://github.com/thenickben/maddpg/blob/master/figures/physical_deception_demo.gif)
 
-![Learning curve](https://github.com/thenickben/maddpg/blob/master/figures/Physical%20Deception%20Rewards.png)
+
 
 #### After training
+
+![Learning curve](https://github.com/thenickben/maddpg/blob/master/figures/Physical%20Deception%20Rewards.png)
 
 ![Trained agents' play](https://github.com/thenickben/maddpg/blob/master/figures/physical_deception.gif)
